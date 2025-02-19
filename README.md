@@ -22,6 +22,6 @@
 
 ![GitHub Snake Animation](https://github.com/UlumDcode/UlumDcode/blob/output/github-contribution-grid-snake.svg)
 
-📌 Most Used Languages
+<!--📌 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlumDcode&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlumDcode&layout=compact&theme=radical)-->
