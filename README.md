@@ -14,5 +14,11 @@
 <!-- 💼 **Portfolio:** [your-portfolio-link]  -->
 - 📧 **Email:** apumm12@gmail.com  
 
-> _"Code. Configure. Innovate."_ 🚀  
+🌟 My GitHub Stats
+![Ulum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UlumDcode&show_icons=true&theme=radical)
 
+🏆 My Contribution Snake
+![GitHub Snake Animation](https://github.com/UlumDcode/UlumDcode/blob/output/github-contribution-grid-snake.svg)
+
+📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlumDcode&layout=compact&theme=radical)
